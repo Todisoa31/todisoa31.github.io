@@ -1,4 +1,4 @@
-# 💼 Portfolio - Todisoa Herinajanahay
+#  Portfolio - Todisoa Herinajanahay
 
 Bienvenue sur mon portfolio de développeur Full Stack JavaScript.
 
@@ -8,41 +8,41 @@ Le portfolio a été conçu comme une véritable vitrine technique, avec un desi
 
 ---
 
-## 🚀 Aperçu
+##  Aperçu
 
 Ce portfolio présente :
 
-- 👨‍💻 Mon parcours professionnel
-- 📚 Mes expériences
-- 🚀 Mes projets
-- 🧠 Mes études de cas
-- ⚙️ Mes réalisations techniques
-- 💡 Mes compétences
-- 📄 Mon CV téléchargeable
-- 📬 Un formulaire de contact
+-  Mon parcours professionnel
+-  Mes expériences
+-  Mes projets
+-  Mes études de cas
+-  Mes réalisations techniques
+-  Mes compétences
+-  Mon CV téléchargeable
+-  Un formulaire de contact
 
 ---
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-- ⚡ Développé avec Next.js 15
-- 🎨 Interface moderne avec Material UI & Tailwind CSS
-- ✨ Animations Framer Motion
-- 🌙 Dark Theme
-- 📱 Responsive Design
-- 🧊 Glassmorphism
-- 🎯 SEO optimisé
-- 📈 Open Graph
-- 🖱️ Custom Cursor
-- ⏳ Loading Screen
-- 📂 Drawer interactif pour les projets
-- 🏆 Études de cas détaillées
-- ⭐ Présentation des compétences avec système d'évaluation
-- 📄 Téléchargement automatique du CV
+-  Développé avec Next.js 15
+-  Interface moderne avec Material UI & Tailwind CSS
+-  Animations Framer Motion
+-  Dark Theme
+-  Responsive Design
+-  Glassmorphism
+-  SEO optimisé
+-  Open Graph
+-  Custom Cursor
+-  Loading Screen
+-  Drawer interactif pour les projets
+-  Études de cas détaillées
+-  Présentation des compétences avec système d'évaluation
+-  Téléchargement automatique du CV
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 ### Front-end
 
@@ -109,7 +109,7 @@ src
 
 ---
 
-## 📸 Sections
+##  Sections
 
 - Hero
 - À propos
@@ -121,7 +121,7 @@ src
 
 ---
 
-## 📊 Réalisations mises en avant
+##  Réalisations mises en avant
 
 Parmi les projets présentés :
 
@@ -140,7 +140,7 @@ Parmi les projets présentés :
 
 ---
 
-## 🧠 Études de cas
+##  Études de cas
 
 Le portfolio met également en avant plusieurs études de cas techniques :
 
@@ -157,7 +157,7 @@ Le portfolio met également en avant plusieurs études de cas techniques :
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
 **Todisoa Herinajanahay**
 
@@ -180,4 +180,4 @@ Spécialisé dans le développement d'applications web modernes, les architectur
 
 ---
 
-⭐ Si ce projet vous plaît, n'hésitez pas à lui attribuer une étoile sur GitHub.
+ Si ce projet vous plaît, n'hésitez pas à lui attribuer une étoile sur GitHub.
