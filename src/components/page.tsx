@@ -3,7 +3,7 @@ import About from './about';
 import Experience from './experience';
 import Projects from './project/projects';
 import Background from './background';
-import Contact from './contact';
+// import Contact from './contact';
 import Footer from './footer';
 import CaseStudies from './case-studies';
 import Stats from './stats';
@@ -36,7 +36,7 @@ export default function PageAccueil() {
         <CaseStudies />
         <Divider />
 
-        <Contact />
+        {/* <Contact /> */}
 
         <Footer />
       </main>
