@@ -5,21 +5,13 @@ import { motion } from 'framer-motion';
 
 export default function Accueil() {
   return (
-    <section className="flex  items-center justify-center px-4 sm:px-6 py-16">
-      <div className="max-w-5xl mx-auto text-center">
+    <section className="flex items-center justify-center px-4 py-16 sm:px-6">
+      <div className="mx-auto max-w-5xl text-center">
         <motion.h1
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
-          className="
-            text-4xl
-            sm:text-5xl
-            md:text-6xl
-            lg:text-7xl
-            font-bold
-            leading-tight
-            wrap-break-word
-          "
+          className="text-4xl font-bold leading-tight sm:text-5xl md:text-6xl lg:text-7xl"
         >
           TODISOA HERINJANAHARY
           <span className="block text-yellow-400">Jean Albin Elie</span>
@@ -29,29 +21,12 @@ export default function Accueil() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.3 }}
-          className="
-            mt-6
-            text-lg
-            sm:text-xl
-            md:text-2xl
-            text-gray-300
-          "
+          className="mt-6 text-lg text-gray-300 sm:text-xl md:text-2xl"
         >
           Fullstack JavaScript Developer
         </motion.h2>
 
-        <p
-          className="
-            mt-8
-            max-w-2xl
-            mx-auto
-            text-sm
-            sm:text-base
-            text-gray-400
-            leading-7
-            sm:leading-8
-          "
-        >
+        <p className="mx-auto mt-8 max-w-2xl text-sm leading-7 text-gray-400 sm:text-base sm:leading-8">
           Plus de 6 ans d&apos;expérience dans le développement d&apos;applications web performantes
           avec React, Next.js, Node.js et NestJS.
         </p>
@@ -64,10 +39,7 @@ export default function Accueil() {
             variant="contained"
             size="large"
             sx={{
-              width: {
-                xs: '100%',
-                sm: 'auto',
-              },
+              width: { xs: '100%', sm: 'auto' },
               maxWidth: 320,
               py: 1.5,
               borderRadius: 2,
